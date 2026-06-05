@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=tower-prototype-main/workspace/prototype/app-index.html">
+  <title>铁塔检测系统原型</title>
+</head>
+<body>
+  <p>正在进入铁塔检测系统原型...</p>
+  <p>
+    如果没有自动跳转，请点击：
+    <a href="tower-prototype-main/workspace/prototype/app-index.html">进入系统</a>
+  </p>
+</body>
+</html>
